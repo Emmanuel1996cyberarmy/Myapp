@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Mum's Birthday",
+      "day": "6th May",
+      "reminder": "true"
+    },
+    {
+      "id": 3,
+      "text": "travelling home",
+      "day": "28th september 2022",
+      "reminder": false
+    },
+    {
+      "text": "Play soccer",
+      "day": "Today 4:00pm",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Code",
+      "day": "Wednesday 12:00 am",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
